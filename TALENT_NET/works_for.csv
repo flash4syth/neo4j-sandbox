@@ -1,0 +1,9 @@
+:START_ID(user_id),:END_ID(company_id),:TYPE
+charlie,1,WORKS_FOR
+ben,1,WORKS_FOR
+sarah,1,WORKS_FOR
+arnold,2,WORKS_FOR
+emily,2,WORKS_FOR
+gordon,2,WORKS_FOR
+kate,2,WORKS_FOR
+

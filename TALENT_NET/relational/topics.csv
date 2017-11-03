@@ -1,0 +1,11 @@
+topicId:ID(topic_id),name,:LABEL
+medicine,Medicine,Topic
+cars,Cars,Topic
+rest,REST,Topic
+graphs,Graphs,Topic
+java,Java,Topic
+travel,Travel,Topic
+design,Design,Topic
+art,Art,Topic
+music,Music,Topic
+drama,Drama,Topic

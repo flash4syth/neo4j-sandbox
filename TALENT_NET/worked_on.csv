@@ -1,0 +1,10 @@
+:START_ID(user_id),:END_ID(project_id),:TYPE
+charlie,1,WORKED_ON
+ben,1,WORKED_ON
+sarah,1,WORKED_ON
+sarah,2,WORKED_ON
+arnold,3,WORKED_ON
+emily,1,WORKED_ON
+emily,2,WORKED_ON
+kate,2,WORKED_ON
+kate,3,WORKED_ON

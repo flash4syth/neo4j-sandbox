@@ -1,0 +1,8 @@
+userId:ID(user_id),name,:LABEL
+charlie,Charlie,User
+ben,Ben,User
+sarah,Sarah,User
+arnold,Arnold,User
+emily,Emily,User
+gordon,Gordon,User
+kate,Kate,User
